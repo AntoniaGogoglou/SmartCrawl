@@ -62,7 +62,7 @@ for u in urlsToCrawl:
     print "CitingPapersCount is:"+str(CitingPapersCount)
     # if this is the first publication you are retrieving, initialize the .txt file where you write the results
     # if you call this script recursively to append results for new publications
-    filename="SOFSEMTitlesWithCitationCountsAndYearsOfCitsPart6.txt"
+    filename="resultFile.txt"
     if url1 is urlsToCrawl[0]:
         FunctionsForCrawlingMAS.WriteCitsAndYears(CitationCountToStore, CitingPapersCount, flatListOfCitationYears, filename, TitleToStore, PubYearToStore)
     else:
