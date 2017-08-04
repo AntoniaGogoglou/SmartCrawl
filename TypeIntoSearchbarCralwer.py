@@ -6,8 +6,8 @@ from bs4 import BeautifulSoup
 import csv
 import time
 
-filenameTitles="URLsToBuild801_900.txt"
-filenameURLs="urlsForMASFrompubTitlesMainProceedingsPart9.txt"
+filenameTitles="Titles.txt"
+filenameURLs="URLs.txt"
 urlsToCrawl=[]
 with open(filenameTitles,"rb+") as f:
     reader=csv.reader(f)
