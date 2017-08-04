@@ -21,7 +21,7 @@ for u in urlsToCrawl:
     chrome_options = Options()
     chrome_options.add_argument("--headless")
     # supply path to the directory where you have chromedriver .exe latest version, that allows you to go headless
-    driver = webdriver.Chrome('/home/ust',chrome_options=chrome_options)
+    driver = webdriver.Chrome('/home/ust/chromedriver',chrome_options=chrome_options)
     # provide your initial url pointing to a particular page (aka a sepcific search)
    
     url1=str(u[0])
