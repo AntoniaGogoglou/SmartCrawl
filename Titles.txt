@@ -1,0 +1,100 @@
+Error-Pruning in Interface Automata
+DSL Based Platform for Business Process Management
+Improving Classification Performance with Focus on the Complex Areas
+Optimal Memory Rendezvous of Anonymous Mobile Agents in a Unidirectional Ring
+On the Undecidability of the Tiling Problem
+Parallel Machine Models: How They Are and Where Are They Going
+Theory of Multi Core Hypervisor Verification
+Towards a Smart, Self-scaling Cooperative Web Cache
+Heuristics on the Definition of UML Refinement Patterns
+The Reconstruction of Polyominoes from Approximately Orthogonal Projections
+Models of Computation, Riemann Hypothesis, and Classical Mathematics
+Lower Bounds on the OBDD Size of Graphs of Some Popular Functions
+Graphs from Search Engine Queries
+A Machine Checked Soundness Proof for an Intermediate Verification Language
+Not Another Look at the Turing Test!
+Quantum Random Walks - New Method for Designing Quantum Algorithms
+Recent Advances in Graph Drawing
+How Can Nature Help Us Compute
+ROMAN DOMINATION: A Parameterized Perspective
+Suffix Tree Based Data Compression
+Maximally Permissive Controlled System Synthesis for Modal Logic
+An Introduction to Virtual Reality Modeling Language
+From Research Prototypes to Industrial Strength Open Source Products - The ObjectWeb Experience
+On the OBDD Complexity of Threshold Functions and the Variable Ordering Problem
+Interval-Valued Data Structures and Their Application to e-Learning
+Aspect-Driven Design of Information Systems
+Choosing Reference Views for Image-Based Representation
+Conjunctive Grammars with Restricted Disjunction
+Tier Aspect Model Based on Updatable Views
+Quo Vadis GIS: From GIS to GIMS and Open GIS
+Avoiding Forbidden Submatrices by Row Deletions
+On the Unification of Process Semantics: Observational Semantics
+On Some Weighted Satisfiability and Graph Problems
+Optimal State Reductions of Automata with Partially Specified Behaviors
+Interprocess Communication in the T4 System
+Massively Parallel Suffix Array Construction
+Multi-document Summarization Based on Cluster Using Non-negative Matrix Factorization
+A Flexible Policy Architecture for Mobile Agents
+Domain Engineering: A Software Engineering Discipline in Need of Research
+Proofs of Communication and Its Application for Fighting Spam
+Probabilistic Acceptors for Languages over Infinite Words
+An Ontology-Driven Fuzzy Workflow System
+Group Communication: From Practice to Theory 
+Design Patterns Instantiation Based on Semantics and Model Transformations
+Efficient Algorithms for Handling Nondeterministic Automata
+An Embedded Language Approach to Router Specification in Curry
+Competitive Maintenance of Minimum Spanning Trees in Dynamic Graphs
+High-Level Languages for Parallel Scientific Computing
+On the Complexity of the Highway Pricing Problem
+A New Analysis of Expected Revenue
+Quantum Finite State Transducers
+Distributed Information Systems
+On Contracting Graphs to Fixed Pattern Graphs
+Hungarian Speech Synthesis Using a Phase Exact HNM Approach
+Finding Optimal Compatible Set of Software Components Using Integer Linear Programming
+Querying and Viewing the Semantic Web: An RDF-Based Perspective
+User Care Preference-Based Semantic Service Discovery in a Ubiquitous Environment
+Deterministic Simulation of a NFA with
+Properties of SLUR Formulae
+A Hierarchical Markovian Mining Approach for Favorite Navigation Patterns
+A Methodology of Visual Modeling Language Evaluation
+CD-Systems of Restarting Automata Governed by Explicit Enable and Disable Conditions
+Concurrent and Located Synchronizations in
+A Seven-Headed Dragon for Optimal Pattern Searching
+Accelerating Smart Play-Out
+How Much Information about the Future Is Needed
+A Kernel for Convex Recoloring of Weighted Forests
+Optimal Trees for Searching in Codebook
+Quantum versus Probabilistic One-Way Finite Automata with Counter
+Symbolic OBDD-Based Reachability Analysis Needs Exponential Space
+Towards the Use of Dynamic Documents in Business Processes
+Iterated Hairpin Completions of Non-crossing Words
+Order-Preserving 1-String Representations of Planar Graphs
+On the Semantics of Multistage Interconnection Networks
+News Generating Via Fuzzy Summarization of Databases
+The Computational Power of Continuous Time Neural Networks
+Fitting Planar Graphs on Planar Maps
+Detecting Identical Entities in the Semantic Web Data
+Automatic Testing of Object-Oriented Software
+Partial vs
+Pal k is Linear Recognizable Online
+Trustworthy Virtualization of the ARMv7 Memory Subsystem
+On Integration of Relational and Object-Oriented Database Systems
+Securing the Future - An Information Flow Analysis of a Distributed OO Language
+Quantum Pushdown Automata
+Compact Encodings for All Local Path Information in Web Taxonomies with Application to WordNet
+Integration, Diffusion, and Merging in Information Management Discipline
+Technology Diffusion in Social Networks
+Core Technologies for System Renovation
+On Finite Representations of Infinite-State Behaviours
+Database: Introduction to Problems
+A Branch-and-Bound Algorithm to Solve Large Scale Integer Quadratic Multi-Knapsack Problems
+Database Semantics in Heterogenous Environment
+Approximation Hardness of the Cross-Species Conserved Active Modules Detection Problem
+Architecture of a Business Framework for the 
+What NARX Networks Can Compute
+Integrating UML Composite Structures and fUML
+Randomness and Determination, from Physics and Computing towards Biology
+Finding Largest Common Substructures of Molecules in Quadratic Time
+Verifying Parameterized taDOM+ Lock Managers
