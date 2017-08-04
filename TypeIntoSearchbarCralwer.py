@@ -7,7 +7,7 @@ import csv
 import time
 
 filenameTitles="Titles.txt"
-filenameURLs="URLs.txt"
+filenameURLs="URLsFile.txt"
 urlsToCrawl=[]
 with open(filenameTitles,"rb+") as f:
     reader=csv.reader(f)
@@ -16,7 +16,7 @@ with open(filenameTitles,"rb+") as f:
 f.close()
 
 for u in urlsToCrawl:
-    browser = webdriver.Chrome('/home/anto/pyth_mysql_code/SOFSEM/chromedriver')
+    browser = webdriver.Chrome('/home/ust/chromedriver')
     browser.get('https://academic.microsoft.com/#/search')
     elem = browser.find_element_by_class_name("searchControl")
     #elem = browser.find_element_by_name('p')  # Find the search box
