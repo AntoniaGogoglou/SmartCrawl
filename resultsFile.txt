@@ -1,0 +1,200 @@
+9,9,2014,Error-Pruning in Interface Automata
+2015,2015,2015,2016,2017,2015,2017,2015,2016
+0,0,2014,DSL Based Platform for Business Process Management
+0
+0,0,2009,Improving Classification Performance with Focus on the Complex Areas
+0
+26,26,2006,Optimal memory rendezvous of anonymous mobile agents in a unidirectional ring
+2010,2012,2010,2008,2006,2010,2011,2007,2006,2008,2010,2008,2013,2008,2011,2012,2016,2007,2011,2013,2014,2015,2012,2012,2009,2007
+4,4,2008,On the undecidability of the tiling problem
+2009,2015,2017,2016
+2,2,1995,Parallel Machine Models: How They Are and Where Are They Going
+2008,1997
+13,13,2013,Theory of Multi Core Hypervisor Verification
+2014,2016,2014,2015,2015,2016,2014,2014,2016,2013,2013,2016,2014
+3,4,2010,Towards a smart, self-scaling cooperative web cache
+2015,2014,2015,2013
+4,0,2006,Heuristics on the definition of UML refinement patterns
+0
+1,1,2001,The Reconstruction of Polyominoes from Approximately Orthogonal Projections
+2007
+2,2,1995,Models of Computation, Riemann Hypothesis, and Classical Mathematics
+2011,2013
+9,9,2005,Lower bounds on the OBDD size of graphs of some popular functions
+2006,2010,2011,2010,2007,2009,2008,2005,2010
+90,56,2007,Graphs from Search Engine Queries
+2007,2008,2012,2010,2009,2011,2010,2010,2012,2011,2010,2012,2013,2008,2009,2010,2014,2008,2012,2011,2010,2015,2008,2008,2010,2010,2014,2012,2013,2010,2009,2010,2016,2010,2016,2010,2013,2010,2010,2015,2014,2009,2014,2014,2013,2012,2010,2012,2014,2012,2012,2014,2010,2009,2014,2013
+2,2,2009,A Machine Checked Soundness Proof for an Intermediate Verification Language
+2011,2010
+10,10,2012,Not another look at the turing test
+2014,2015,2014,2014,2016,2016,2013,2016,2015,2014
+7,7,2008,Quantum random walks - new method for designing quantum algorithms
+2012,2012,2010,2011,2010,2014,2011
+0,0,2005,Recent advances in graph drawing
+0
+12,12,2006,How can nature help us compute
+2009,2009,2015,2006,2013,2012,2010,2012,2009,2010,2011,2008
+1,1,2006,Roman domination: a parameterized perspective
+2006
+4,4,2005,Suffix tree based data compression
+2013,2006,2011,2013
+4,4,2014,Maximally Permissive Controlled System Synthesis for Modal Logic
+2015,2015,2016,2017
+0,0,1997,An Introduction to Virtual Reality Modeling Language
+0
+0,0,2005,From research prototypes to industrial strength open source products  the objectweb experience
+0
+0,0,2009,On the OBDD Complexity of Threshold Functions and the Variable Ordering Problem
+0
+3,3,2005,Interval-Valued data structures and their application to e-learning
+2016,2010,2013
+2,14,2012,Aspect-driven, data-reflective and context-aware user interfaces design
+2015,2015,2015,2015,2016,2016,2017,2015,2015,2016,2016,2016,2016,2015
+1,0,1996,Choosing Reference Views for Image-Based Representation
+0
+1,1,2009,Conjunctive Grammars with Restricted Disjunction
+2008
+2,2,2005,Tier aspect model based on updatable views
+2005,2006
+0,0,1995,Quo Vadis GIS: From GIS to GIMS and Open GIS
+0
+2,2,2004,Avoiding Forbidden Submatrices by Row Deletions
+2007,2004
+6,6,2009,On the Unification of Process Semantics: Observational Semantics
+2009,2010,2012,2009,2013,2011
+10,10,2005,On some weighted satisfiability and graph problems
+2008,2006,2005,2006,2007,2006,2007,2006,2011,2006
+1,0,2015,Optimal State Reductions of Automata with Partially Specified Behaviors
+0
+1,0,1996,Interprocess Communication in the T4 System
+0
+1,1,1998,Massively Parallel Suffix Array Construction
+2014
+23,23,2007,Multi-document Summarization Based on Cluster Using Non-negative Matrix Factorization
+2008,2012,2010,2011,2015,2010,2010,2011,2013,2010,2008,2008,2015,2008,2015,2008,2007,2009,2016,2014,2017,2012,2016
+5,5,2006,A flexible policy architecture for mobile agents
+2009,2008,2009,2007,2012
+11,11,2000,Domain Engineering: A Software Engineering Discipline in Need of Research
+2008,2013,2009,2011,2017,2007,2011,2010,2007,2015,2010
+2,2,2008,Proofs of communication and its application for fighting spam
+2008,2014
+2,2,2009,Probabilistic Acceptors for Languages over Infinite Words
+2015,2011
+3,3,2013,An Ontology-Driven Fuzzy Workflow System
+2016,2015,2017
+7,7,2006,Group communication: from practice to theory
+2006,2007,2007,2009,2008,2009,2007
+10,10,2009,Design Patterns Instantiation Based on Semantics and Model Transformations
+2011,2012,2013,2012,2013,2015,2014,2014,2014,2014
+0,0,2011,Efficient algorithms for handling nondeterministic automata
+0
+0,0,2004,An embedded language approach to router specification in Curry
+0
+5,5,2007,Competitive Maintenance of Minimum Spanning Trees in Dynamic Graphs
+2012,2007,2012,2016,2012
+0,0,1995,High-Level Languages for Parallel Scientific Computing
+0
+2,2,2009,On the Complexity of the Highway Pricing Problem
+2012,2011
+0,0,2009,A New Analysis of Expected Revenue
+0
+11,11,2001,Quantum Finite State Transducers
+2005,2012,2010,2004,2008,2006,2010,2007,2012,2001,2007
+1,27,1995,Using Consensus Methods for Solving Conflicts of Data in Distributed Systems
+2002,2001,2003,2015,2015,2016,2002,2005,2001,2003,2015,2015,2002,2016,2016,2002,2001,2001,2003,2017,2004,2001,2002,2017,2001,2017,2014
+6,6,2009,On Contracting Graphs to Fixed Pattern Graphs
+2013,2010,2011,2011,2012,2014
+0,0,2002,Hungarian Speech Synthesis Using a Phase Exact HNM Approach
+0
+0,0,2016,Finding Optimal Compatible Set of Software Components Using Integer Linear Programming
+0
+0,0,2004,Querying and Viewing the Semantic Web: An RDF-Based Perspective
+0
+1,1,2009,User Care Preference-Based Semantic Service Discovery in a Ubiquitous Environment
+2010
+1,1,1977,Deterministic Simulation of a NFA with k---Symbol Lookahead
+2009
+10,10,2012,Properties of SLUR formulae
+2013,2014,2013,2012,2014,2013,2017,2014,2015,2014
+1,1,2005,A hierarchical markovian mining approach for favorite navigation patterns
+2009
+4,4,2005,A methodology of visual modeling language evaluation
+2009,2016,2005,2005
+0,0,2009,CD-Systems of Restarting Automata Governed by Explicit Enable and Disable Conditions
+0
+2,9,2013,Concurrent and Located Synchronizations in -Calculus
+2012,2014,2010,2012,2006,2008,2015,2010,2009
+1,0,1996,A Seven-Headed Dragon for Optimal Pattern Searching
+0
+2,2,2009,Accelerating Smart Play-Out
+2012,2011
+53,31,2008,How much information about the future is needed
+2013,2011,2011,2010,2014,2009,2012,2012,2011,2013,2013,2013,2014,2015,2011,2017,2016,2013,2017,2017,2016,2012,2014,2015,2016,2016,2014,2015,2014,2011,2014
+0,0,2009,A Kernel for Convex Recoloring of Weighted Forests
+0
+0,0,1997,Optimal trees for searching in codebook
+0
+10,10,2001,Quantum versus Probabilistic One-Way Finite Automata with Counter
+2005,2012,2010,2005,2014,2002,2006,2001,2010,2005
+3,3,2010,Symbolic OBDD-Based Reachability Analysis Needs Exponential Space
+2010,2010,2010
+0,0,1998,Towards the Use of Dynamic Documents in Business Processes
+0
+5,5,2012,Iterated hairpin completions of non-crossing words
+2012,2014,2015,2012,2016
+0,0,2016,Order-preserving 1-string representations of planar graphs
+0
+2,1,1996,On the Semantics of Multistage Interconnection Networks
+2001
+7,7,2006,News generating via fuzzy summarization of databases
+2008,2012,2007,2007,2014,2015,2011
+12,12,1997,The Computational Power of Continuous Time Neural Networks
+2003,2013,2002,2000,1997,2007,2000,2001,2003,2000,2002,2001
+0,0,2014,Fitting Planar Graphs on Planar Maps
+0
+1,1,2015,Detecting Identical Entities in the Semantic Web Data
+2016
+92,59,2007,Automatic Testing of Object-Oriented Software
+2008,2008,2012,2006,2007,2010,2014,2015,2007,2007,2009,2010,2015,2014,2009,2016,2010,2014,2009,2010,2012,2009,2008,2010,2011,2010,2007,2009,2017,2007,2010,2008,2011,2009,2011,2015,2015,2008,2009,2010,2010,2011,2011,2012,2008,2011,2010,2016,2014,2013,2014,2007,2014,2011,2013,2014,2013,2009,2008
+20,20,2007,Partial vs. Complete Domination: t-Dominating Set
+2009,2016,2013,2013,2014,2008,2009,2011,2008,2014,2011,2014,2010,2010,2017,2016,2009,2013,2016,2016
+4,6,2002,Palk is Linear Recognizable Online
+2014,2015,2016,2017,2014,2016
+3,3,2015,Trustworthy Virtualization of the ARMv7 Memory Subsystem
+2016,2015,2016
+1,1,1997,On Integration of Relational and Object-Oriented Database Systems
+1999
+0,0,2012,Securing the future: an information flow analysis of a distributed OO language
+0
+4,24,2014,Quantum Pushdown Automata
+2008,2005,2007,2012,2009,2006,2004,2008,2011,2014,2012,2006,2002,2004,2012,2005,2001,2010,2011,2016,2006,2004,2005,2005
+4,4,2006,Compact encodings for all local path information in web taxonomies with application to wordnet
+2012,2011,2008,2014
+1,19,2004,Separation of Concerns and Consistent Integration in Requirements Modelling
+2009,2009,2012,2009,2007,2006,2007,2007,2014,2008,2010,2011,2013,2012,2010,2013,2015,2015,2008
+0,0,2009,Technology Diffusion in Social Networks
+0
+52,13,1996,Core Technologies for System Renovation
+1998,1999,1998,1999,2003,1998,1998,1999,1999,2001,1999,1999,2000
+0,0,1997,On Finite Representations of Infinite-State Behaviours
+0
+0,0,1995,Database: Introduction to Problems
+0
+0,0,2007,A Branch-and-Bound Algorithm to Solve Large Scale Integer Quadratic Multi-Knapsack Problems
+0
+4,3,1996,Database Semantics in Heterogenous Environment
+2000,1998,2017
+0,0,2015,Approximation Hardness of the Cross-Species Conserved Active Modules Detection Problem
+0
+106,5,2006,Setting the record straight.
+2003,2010,2006,2015,2011
+1,1,1995,What NARX Networks Can Compute
+2016
+0,0,2014,Integrating UML Composite Structures and fUML
+0
+1,6,2015,Randomness and Determination, from Physics and Computing towards Biology
+2011,2011,2013,2015,2011,2010
+0,0,2016,Finding Largest Common Substructures of Molecules in Quadratic Time
+0
+8,8,2008,Verifying parameterized taDOM+ lock managers
+2009,2009,2010,2009,2009,2008,2008,2014
